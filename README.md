@@ -39,9 +39,7 @@
    
    ## 👨‍💻 Author
    Sripad Chilivery
+   
    sripadchilivery8@gmail.com
+   
    [\[LinkedIn Profile\]](https://www.linkedin.com/in/chilivery-sripad/)
-```
-
-
-
