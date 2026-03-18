@@ -25,7 +25,9 @@
    
    ## 🚀 How to Run
 ```bash
-   pip install pandas numpy matplotlib seaborn scipy
+   pip install -r requirements.txt
+```
+```bash
    jupyter notebook trader_analysis.ipynb
 ```
    
