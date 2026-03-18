@@ -1,5 +1,5 @@
 # Trader Behavior & Market Sentiment Analysis
-   **Assignment Submission for Python Development Intern @ Anything.ai**
+   **Assignment Submission for Python Development Intern @ Primetrade.ai**
    
    ## 📊 Overview
    Analysis of 211,224 trades from Hyperliquid against Bitcoin Fear/Greed Index
@@ -26,7 +26,7 @@
    ## 🚀 How to Run
 ```bash
    pip install pandas numpy matplotlib seaborn scipy
-   jupyter notebook FINAL_trader_analysis.ipynb
+   jupyter notebook trader_analysis.ipynb
 ```
    
    ## 📈 Results Preview
